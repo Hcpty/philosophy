@@ -1,2 +1,9 @@
-# philosophy
-A note about philosophy.
+# Philosophy
+
+## 关于选择的学问
+
+人过去做过的选择决定了人现在能否适应环境，人能否适应环境决定了人乐于生还是敢于死。
+
+## References
+
+- []()
