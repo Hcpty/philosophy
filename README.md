@@ -1,6 +1,6 @@
 # Philosophy
 
-## 关于选择的学问
+## 关于安排的学问
 
 ## References
 
